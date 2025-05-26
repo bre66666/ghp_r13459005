@@ -11,7 +11,7 @@ This script calculates the total number of newly reported dengue cases in Taiwan
 
 ## How to Run
 1. Place `dengue_assignment.csv` in your working directory (do **not** upload this file to GitHub).
-2. Open `analysis.R` in RStudio.
+2. Open `dengue_HW.R` in RStudio.
 3. Run the script.
 
 ## Result
